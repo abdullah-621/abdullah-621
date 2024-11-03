@@ -1,6 +1,6 @@
 ![I am MERN Stack Web Developer](https://camo.githubusercontent.com/013279acf1abe127e693ea39c0a868a97c0b15057305136f449107543e4d48fd/68747470733a2f2f7331332e67696679752e636f6d2f696d616765732f5343757a782e676966)
 
-### 🚀 I'm Abdullah Al Masum, A MERN Stack Web Developer 👨‍💻. 🚀 I strive to create dynamic, original, and impactful <span style = "margin:auto"> User Experiences & web applications 🚀<span/>
+### 🚀 I'm Abdullah Al Masum, A MERN Stack Web Developer 👨‍💻. 🚀 I strive to create dynamic, original, and impactful User Experiences & web applications 🚀
 
 
 Assalamualaikum! I'm Abdullah, a Computer Science student at Southeast University, where I’m exploring the realms of software development and competitive programming. My journey includes working on problem-solving skills through platforms like Codeforces, and I've recently delved into beginner-friendly web development, particularly HTML.
