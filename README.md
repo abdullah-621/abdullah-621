@@ -4,7 +4,6 @@
 
 Assalamualaikum! I'm Abdullah, a Computer Science student at Southeast University, where I’m exploring the realms of software development and competitive programming. My journey includes working on problem-solving skills through platforms like Codeforces, and I've recently delved into beginner-friendly web development, particularly HTML.
 
-Beyond coding, I'm passionate about learning and contributing to tech communities. I’m also interested in roles like campus ambassador positions that allow me to connect with others and share knowledge.
 
 🌱 Current Goals
 Sharpening my competitive programming skills and aiming for higher ranks on Codeforces.
