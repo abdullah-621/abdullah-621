@@ -1,4 +1,4 @@
-![I am MERN Stack Web Developer]
+[I am MERN Stack Web Developer]
 
 ### 🚀 I'm Abdullah Al Masum, A MERN Stack Web Developer 👨‍💻. 🚀 I strive to create dynamic, original, and impactful User Experiences & web applications 🚀
 
