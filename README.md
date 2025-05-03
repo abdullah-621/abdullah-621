@@ -1,4 +1,4 @@
-![I am MERN Stack Web Developer](https://camo.githubusercontent.com/013279acf1abe127e693ea39c0a868a97c0b15057305136f449107543e4d48fd/68747470733a2f2f7331332e67696679752e636f6d2f696d616765732f5343757a782e676966)
+![I am MERN Stack Web Developer]([https://camo.githubusercontent.com/013279acf1abe127e693e39c0a868a97c0b15057305136f449107543e4d48fd/68747470733a2f2f7331332e67696679752e636f6d2f696d616765732f5343757a782e676966](https://www.istockphoto.com/photo/businessman-works-on-laptop-showing-business-analytics-dashboard-with-charts-metrics-gm1488294044-513513679?searchscope=image%2Cfilm))
 
 ### 🚀 I'm Abdullah Al Masum, A MERN Stack Web Developer 👨‍💻. 🚀 I strive to create dynamic, original, and impactful User Experiences & web applications 🚀
 
