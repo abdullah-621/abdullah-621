@@ -1,4 +1,4 @@
-[I am MERN Stack Web Developer]
+[ Assalamualaikum, I'm Abdullah]
 
 ### 🚀 I'm a Machine Learning enthusiast and aspiring ML Engineer. 👨‍💻. 🚀 I love working on projects involving data analysis, computer vision, and natural language processing. 🚀
 
