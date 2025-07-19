@@ -1,25 +1,24 @@
 [I am MERN Stack Web Developer]
 
-### 🚀 I'm Abdullah Al Masum, A MERN Stack Web Developer 👨‍💻. 🚀 I strive to create dynamic, original, and impactful User Experiences & web applications 🚀
+### 🚀 I'm a Machine Learning enthusiast and aspiring ML Engineer. 👨‍💻. 🚀 I love working on projects involving data analysis, computer vision, and natural language processing. 🚀
 
 
-Assalamualaikum! I'm Abdullah, a Computer Science student at Southeast University, where I’m exploring the realms of software development and competitive programming. My journey includes working on problem-solving skills through platforms like Codeforces, and I've recently delved into beginner-friendly web development, particularly HTML.
+Assalamualaikum! I'm Abdullah, a Computer Science student at Southeast University, where I’m exploring the realms of software development and competitive programming. My journey includes working on problem-solving skills through platforms like Codeforces, and I've recently delved into beginner-friendly ML Engineer.
 
 Beyond coding, I'm passionate about learning and contributing to tech communities. I’m also interested in roles like campus ambassador positions that allow me to connect with others and share knowledge.
 
 🌱 Current Goals
-Sharpening my competitive programming skills and aiming for higher ranks on Codeforces.
-Building a solid foundation in web development.
+Sharpening my problem solving skills and aiming for higher ranks on Leetcode.
+Building a solid foundation in Machine Learning.
 Exploring opportunities to represent and contribute to tech communities.
 📫 Connect with Me
 Feel free to connect with me on GitHub or reach out via email for any collaboration, discussions, or just a friendly chat about coding!
 
 
-
-Skills: C / C++ / Figma / HTML / CSS / Boostrap / Git
+Skills: C / C++ / Figma / HTML / CSS / Boostrap / Git / pyhton
 
 - 🔭 I’m currently working on Student 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning python 
 - 💬 Ask me about anything related to the MERN stack and related technologies 
 
 
