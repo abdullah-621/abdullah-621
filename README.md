@@ -72,8 +72,10 @@
         </a>
       </td>
       <td>
-       [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Green?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/abdullah65/)
-      </td>
+  <a href="https://www.geeksforgeeks.org/user/abdullah65/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Abdullah GFG Stats" height="316"/>
+  </a>
+</td>
     </tr>
   </table>
 </div>
