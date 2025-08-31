@@ -39,6 +39,14 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) -->
 
+### 📝 C/C++ Problem Solving
+আমার C এবং C++ এ লেখা LeetCode & Competitive Programming সলিউশনগুলো:
+
+- [C++ LeetCode Solutions](https://github.com/abdullah-621/cpp-leetcode-solutions)
+- [C LeetCode Solutions](https://github.com/abdullah-621/c-leetcode-solutions)
+
+> 💡 প্রতিটা প্রোজেক্টে problem link ও solution code থাকবে, যাতে অনেকে সহজে বুঝতে পারে।  
+
 # 📊 GitHub Stats:
 <div align="center">
   <table>
