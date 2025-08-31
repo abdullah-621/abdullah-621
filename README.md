@@ -8,6 +8,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdullahalmasum.621)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nhnasim333) -->
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdullah__621) 
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Green?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/abdullah65/)
 
 
 # 💻 Tech Stack:
