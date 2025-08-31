@@ -44,32 +44,32 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhnasim333&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-621&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nhnasim333&theme=radical&show_icons=true&count_private=true&hide_border=false" alt="nhnasim333 :: Profile Stats" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=abdullah-621&theme=radical&show_icons=true&count_private=true&hide_border=false" alt="abdullah-621 :: Profile Stats" height="200px" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhnasim333&theme=radical&hide_border=false" height="200px" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-621&theme=radical&hide_border=false" height="200px" />
       </td>
     </tr>
   </table>
 </div>
 
-# 📊 Competitive Programming Stats:
+# 📊 Problem Solving Stats:
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://codeforces.com/profile/nasim333" target="_blank">
-          <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=nasim333&theme=radical&disable_animations=false&show_icons=true&force_username=true" alt="Nasim Codeforces Stats"/>
+        <a href="https://codeforces.com/profile/simplymasum03" target="_blank">
+          <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=simplymasum03&theme=radical&disable_animations=false&show_icons=true&force_username=true" alt="Abdullah Codeforces Stats"/>
         </a>
       </td>
       <td>
-        <a href="https://leetcode.com/u/nasim333" target="_blank">
-          <img height="316" src="https://leetcard.jacoblin.cool/nasim333?theme=radical&font=Fira%20Code&ext=contest" alt="Nasim Leetcode Stats"/>
+        <a href="https://leetcode.com/u/masum65" target="_blank">
+          <img height="316" src="https://leetcard.jacoblin.cool/masum65?theme=radical&font=Fira%20Code&ext=contest" alt="Abdullah Leetcode Stats"/>
         </a>
       </td>
     </tr>
