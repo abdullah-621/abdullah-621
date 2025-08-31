@@ -8,8 +8,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdullahalmasum.621)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nhnasim333) -->
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdullah__621) 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Green?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/abdullah65/)
-
 
 # 💻 Tech Stack:
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/abdullah-621/C_Programming)
@@ -74,9 +72,7 @@
         </a>
       </td>
       <td>
-        <a href="https://www.geeksforgeeks.org/user/abdullah65/" target="_blank">
-  <img src="https://your-generated-gfg-card-link.com/card.png" alt="Abdullah GFG Stats" height="316"/>
-</a>
+       [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Green?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/abdullah65/)
       </td>
     </tr>
   </table>
