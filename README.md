@@ -40,23 +40,13 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) -->
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-621&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=abdullah-621&theme=radical&show_icons=true&count_private=true&hide_border=false" alt="abdullah-621 :: Profile Stats" height="200px" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-621&theme=radical&hide_border=false" height="200px" />
-      </td>
-    </tr>
-  </table>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-621&theme=radical&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullah-621&show_icons=true&theme=radical&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-621&theme=radical)
+
 </div>
 
 # 📊 Problem Solving Stats:
