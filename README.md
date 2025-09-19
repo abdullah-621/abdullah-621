@@ -53,7 +53,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-621&theme=radical&hide_border=false" height="200px" />
+        <img src="https://streak-stats.demolab.com?user=abdullah-621&theme=radical&hide_border=false" height="200px" />
       </td>
     </tr>
   </table>
