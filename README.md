@@ -52,10 +52,10 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=abdullah-621&theme=radical&hide_border=false" height="200px" />
-      </td>
-    </tr>
+  <td colspan="2" align="center">
+    <img src="https://streak-stats.demolab.com?user=abdullah-621&theme=radical&hide_border=false" height="200px" />
+  </td>
+</tr>
   </table>
 </div>
 
