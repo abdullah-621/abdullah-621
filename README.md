@@ -83,17 +83,18 @@
   </table>
 </div>
 
-# 📊 GitHub Contribution Graph
+# 📊 GitHub Contribution Graph (Real Time)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-621&bg_color=0d1117&color=ffffff&line=00e676&point=ff5722&area=true&hide_border=true" alt="Abdullah Contribution Graph" />
+</p>
+
+# 📊 GitHub Contribution Graph (Static)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abdullah-621/abdullah-621/main/github-user-contribution%20(1).svg" alt="Abdullah Contribution Graph" width="100%">
 </p>
 
-# 📊 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-621&bg_color=0d1117&color=ffffff&line=00e676&point=ff5722&area=true&hide_border=true" alt="Abdullah Contribution Graph" />
-</p>
 
 
 
