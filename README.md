@@ -82,6 +82,7 @@
     </tr>
   </table>
 </div>
+
 # 📊 GitHub Contribution Graph
 
 <p align="center">
