@@ -94,10 +94,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-621&bg_color=0d1117&color=ffffff&line=00e676&point=ff5722&area=true&hide_border=true" alt="Abdullah Contribution Graph" />
 </p>
 
-# 📊 GitHub Stats
+# 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-621&show_icons=true&theme=radical" alt="Abdullah's GitHub stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-621&bg_color=0d1117&color=ffffff&line=00e676&point=ff5722&area=true&hide_border=true" alt="Abdullah Contribution Graph" />
 </p>
+
 
 
