@@ -82,11 +82,12 @@
     </tr>
   </table>
 </div>
-# 📈 GitHub Contribution Graph:
-<div align="center">
-  <a href="https://github.com/abdullah-621/abdullah-621/blob/master/44035748-e4f6-43da-9410-fdb4a49bf8d0.svg" rel="nofollow">
-    <img src="https://github.com/abdullah-621/abdullah-621/blob/master/44035748-e4f6-43da-9410-fdb4a49bf8d0.svg" alt="Abdullah Contribution Graph" style="max-width:100%;">
-  </a>
-</div>
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdullah-621/abdullah-621/main/github-user-contribution%20(1).svg" alt="Abdullah Contribution Graph" width="100%">
+</p>
+
+
 
 
