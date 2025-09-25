@@ -8,7 +8,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdullahalmasum.621)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nhnasim333) -->
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdullah__621) 
--> Want to see my Linktree - <a href="https://linktr.ee/Abdullah_Al_Masum621">CLICK HERE ➡️</a>
+- Want to see my Linktree - <a href="https://linktr.ee/Abdullah_Al_Masum621">CLICK HERE ➡️</a>
 
 # 💻 Tech Stack:
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/abdullah-621/C_Programming)
