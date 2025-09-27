@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Study about ML/AI<br>👯 I’m looking to collaborate on machine learning related content<br>🌱 I’m currently learning Python<br>💬 Ask me about machine learning<br>⚡ Fun fact - I'm not perfect but honest
+🔭 I’m currently Study about ML/AI<br>🧠 I also love problem solving<br>👯 I’m looking to collaborate on machine learning related content<br>🌱 I’m currently learning Python<br>💬 Ask me about machine learning<br>⚡ Fun fact - I'm not perfect but honest
 
 
 ## 🌐 Socials:
