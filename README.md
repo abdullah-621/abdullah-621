@@ -18,6 +18,7 @@
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/abdullah-621/pandas)
 [![Matplotlib](https://img.shields.io/badge/matplotlib-%230076A8.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/abdullah-621/matplotlib)
 [![Seaborn](https://img.shields.io/badge/seaborn-%231C6CAB.svg?style=for-the-badge&logo=seaborn&logoColor=white)](https://github.com/abdullah-621/seaborn)
+[![Seaborn](https://img.shields.io/badge/seaborn-%231C6CAB.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/abdullah-621/seaborn)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
