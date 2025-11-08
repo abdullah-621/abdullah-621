@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Study about [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23007ACC.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/abdullah-621/Machine-Learning)<br>🧠 I’m also love problem solving<br>👯 I’m looking to collaborate on machine learning related content<br>🌱 I’m currently learning Python<br>💬 Ask me about machine learning<br>⚡ Fun fact - I'm not perfect but honest
+🔭 I’m currently Study about [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23007ACC.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/abdullah-621/Machine-Learning)<br>🧠 I’m also love problem solving<br>👯 I’m looking to collaborate on [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/abdullah-621/Machine-Learning) related content<br>🌱 I’m currently learning Python<br>💬 Ask me about [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/abdullah-621/Machine-Learning)<br>⚡ Fun fact - I'm not perfect but honest
 
 
 ## 🌐 Socials:
