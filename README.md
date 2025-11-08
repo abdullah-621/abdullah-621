@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Study about [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23007ACC.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/abdullah-621/Machine-Learning)<br>🧠 I’m also love problem solving<br>👯 I’m looking to collaborate on [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/abdullah-621/Machine-Learning) related content<br>🌱 I’m currently learning Python<br>💬 Ask me about [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/abdullah-621/Machine-Learning)<br>⚡ Fun fact - I'm not perfect but honest
+🔭 I’m currently Study about [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23007ACC.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/abdullah-621/Machine-Learning).<br>🧠 I’m also love problem solving.<br>👯 I’m looking to collaborate on [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/abdullah-621/Machine-Learning) related content.<br>🌱 I’m currently learning Python<br>💬 Ask me about [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/abdullah-621/Machine-Learning).<br>⚡ Fun fact - I'm not perfect but honest.
 
 
 ## 🌐 Socials:
@@ -18,9 +18,7 @@
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/abdullah-621/pandas)
 [![Matplotlib](https://img.shields.io/badge/matplotlib-%230076A8.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/abdullah-621/matplotlib)
 [![Seaborn](https://img.shields.io/badge/seaborn-%231C6CAB.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/abdullah-621/seaborn)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23007ACC.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/abdullah-621/Machine-Learning)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/abdullah-621/Machine-Learning)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/abdullah-621/Machine-Learning)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
