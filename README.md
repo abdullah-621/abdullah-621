@@ -19,7 +19,7 @@
 [![Matplotlib](https://img.shields.io/badge/matplotlib-%230076A8.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/abdullah-621/matplotlib)
 [![Seaborn](https://img.shields.io/badge/seaborn-%231C6CAB.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/abdullah-621/seaborn)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/abdullah-621/Machine-Learning)
-[![NLP](https://img.shields.io/badge/NLP%20%7C%20Text%20Processing-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/abdullah-621/NLP)
+[![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/abdullah-621/NLP)
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
