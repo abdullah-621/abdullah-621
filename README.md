@@ -64,9 +64,9 @@
   </a>
 </td>
       <td>
-  <a href="https://www.kaggle.com/abdullah65621" target="_blank">
-    <img height="316" src="https://kaggle.com/your_username.png" alt="Kaggle Profile"/>
-  </a>
+  <a href="https://www.kaggle.com/your_username" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle&logoColor=white" height="316"/>
+</a>
 </td>
     </tr>
   </table>
