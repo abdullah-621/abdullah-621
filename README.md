@@ -63,6 +63,11 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-Green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Abdullah GFG Stats" height="316"/>
   </a>
 </td>
+      <td>
+  <a href="https://www.kaggle.com/your_username" target="_blank">
+    <img height="316" src="https://kaggle.com/your_username.png" alt="Kaggle Profile"/>
+  </a>
+</td>
     </tr>
   </table>
 </div>
