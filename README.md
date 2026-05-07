@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=abdullah-621&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
-# 💫 About Me: abdullah-621.github.io
+# 💫 About Me: <a href="https://abdullah-621.github.io/">bdullah-621.github.io ➡️</a>
 🔭 I’m currently Study about [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23007ACC.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/abdullah-621/Machine-Learning)<br><br>🧠 I’m also love problem solving.<br><br>👯 I’m looking to collaborate on [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/abdullah-621/Machine-Learning) related knowledge.<br><br>💬 Ask me about [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/abdullah-621/Machine-Learning)<br><br>⚡ Fun fact - I'm not perfect but honest.
 
 
